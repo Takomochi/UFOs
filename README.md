@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview of the project
-This project is to create a website that provides UFO sightings information. There is so much data, so we will make multiple filters so that the users can see only the necessary information. 
+This project is to create a website that provides UFO sightings information. There is so much data, so we will make multiple filters to see only the necessary information. 
 
 ## Results
 
@@ -16,4 +16,4 @@ Input criteria(Date, City, State, Country, and Shape), click somewhere on the we
 You can clear the filters by reloading the page.
 
 ## Summary
-A drawback of this webpage would be the position of the filter search. If we scroll down the page, we won't see the filter page, and we have to scroll up the page again. I would recommend setting the filter search position to be fixed for further development. In this way, we can always see and input criteria without going back to the top of the page. Furthermore, we can add filters for duration and comments. Duration can be filtered by number, and comments can be filtered by input word
+A drawback of this webpage would be the position of the filter search. If we scroll down the page, we won't see the filter page, and we have to scroll up the page again. I would recommend setting the filter search position to be fixed for further development. In this way, we can always see and input criteria without going back to the top of the page. Furthermore, we can add filters for duration and comments. The duration column can be filtered by number, and the input word can filter the comments column.
